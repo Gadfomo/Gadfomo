@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="150" src="https://i.ibb.co/sS2CDHW/Whats-App-Image-2025-05-14-at-18-35-45-e26b187f.jpg"  />
+  <img height="150" src="https://i.ibb.co/V0GnDt23/image.jpg"  />
 </div>
 
 ###
