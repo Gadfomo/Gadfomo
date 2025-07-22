@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-````md
+
 <div align="center">
   <img height="150" src="https://i.ibb.co/sS2CDHW/Whats-App-Image-2025-05-14-at-18-35-45-e26b187f.jpg"  />
 </div>
@@ -196,4 +196,4 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gadfomo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-```
+
